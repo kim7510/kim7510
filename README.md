@@ -20,7 +20,9 @@
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim7510&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/kim7510/Coding-Test)
-</div>
-
+<br/>
+<br/>
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)
+</div>
+
