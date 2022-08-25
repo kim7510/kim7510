@@ -20,7 +20,7 @@
 ![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim7510&show_icons=true&theme=dark)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim7510&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/kim7510/Coding-Test)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim7510&&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/kim7510/Coding-Test)
 <br/>
 <br/>
 [![Solved.ac
