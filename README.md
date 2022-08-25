@@ -5,8 +5,7 @@
 ![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim7510&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim7510&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/kim7510/Coding-Test)
-## 💻 Front-end Stack 💻 
-Techs i've used least one <br/>
+# 💻 Front-end Stack 💻 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
