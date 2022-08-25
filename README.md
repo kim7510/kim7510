@@ -12,8 +12,10 @@
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white"/>
 <br/>
+<br/>
 
 ![SeoYeons's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim7510&show_icons=true&theme=dark)
-
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim7510&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/kim7510/Coding-Test)
 </div>
