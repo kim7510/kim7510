@@ -10,5 +10,6 @@ Techs i've used least one <br/>
 <img alt="Csharp" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Csharp" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="Csharp" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim7510)](https://solved.ac/kim7510)<br/>
 </div>
