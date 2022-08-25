@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&height=200&text=Welecome&fontAlign=50&color=random&customColorList=0,2,2,5,30&animation=fadeIn&desc=SeoYeon's%20Profile&descSize=25&descAlign=56&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&height=200&text=Welecome&fontAlign=50&color=random&customColorList=0,2,2,5,30&animation=fadeIn&desc=SeoYeon's%20Profile&descSize=25&descAlign=56&descAlignY=75)
 
 # 💻 Front-end Stack 💻 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
